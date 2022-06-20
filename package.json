@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "react-imvc": "^3.2.4",
+    "typescript": "^3.7.3"
+  },
+  "name": "imvc-test2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-imvc start",
+    "build": "react-imvc build",
+    "test": "react-imvc test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
